@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-10 17:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+msgid "Contacts"
+msgstr "Contactos"
+
+#: /home/olpc/Activities/Contacts.activity/agenda.py:61
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:127
+msgid "Add a new contact"
+msgstr "Agregar un nuevo contacto"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:65
+msgid "Write a name:"
+msgstr "Escribe el nombre:"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:103
+msgid "Remove this contact"
+msgstr "Eliminar este contacto"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:158
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:160
+msgid "None"
+msgstr "Ninguno"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:189
+msgid "Contacts:"
+msgstr "Contactos:"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:285
+msgid "Name:"
+msgstr "Nombre:"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:286
+msgid "Age:"
+msgstr "Edad:"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:287
+msgid "Telephone:"
+msgstr "Teléfono:"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:289
+msgid "Adress:"
+msgstr "Dirección:"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:446
+msgid "Select a avatar"
+msgstr "Seleccione un avatar"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:471
+msgid "Load from journal"
+msgstr "Cargar desde el diario"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:474
+msgid "Accept"
+msgstr "Aceptar"
+
+#: /home/olpc/Activities/Contacts.activity/agendacanvas.py:476
+msgid "Cancel"
+msgstr "Cancelar"

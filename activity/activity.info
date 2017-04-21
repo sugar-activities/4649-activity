@@ -1,0 +1,8 @@
+[Activity]
+name = Contacts
+activity_version = 3
+show_launcher = 1
+bundle_id = org.ceibaljam.agenda
+exec = sugar-activity agenda.Agenda -s
+icon = agenda
+license = GPLv3+
